@@ -15,7 +15,7 @@
 .banner-block{
     height: 1012px;
     width: 100vw;
-    background-image: url(..//images/bg/section-1.jpg); /**/
+    background-image: url(..//images/sections/section-1.jpg); /**/
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size:cover;
@@ -161,7 +161,7 @@
 
 .purchase-block{
     background-size: cover;
-    background: url(..//images/bg/section-2.jpg) no-repeat fixed center;
+    background: url(..//images/sections/section-2.jpg) no-repeat fixed center;
 }
 .blur-img{
     display: flex;
@@ -485,7 +485,7 @@
 }
 .review-block{
     background-size: cover;
-    background: url(..//images/bg/section-3.jpg) no-repeat fixed center;
+    background: url(..//images/sections/section-3.jpg) no-repeat fixed center;
 }
 .slider-bg{
     display: flex;
